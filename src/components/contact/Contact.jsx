@@ -44,7 +44,7 @@ const Contact = () => {
         </div>
 
         <div className="image-box">
-          <img src="./coder.jpg" alt="" />
+          <img src="/coder.jpg" alt="" />
         </div>
       </div>
     </>
