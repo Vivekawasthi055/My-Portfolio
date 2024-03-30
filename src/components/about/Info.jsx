@@ -10,7 +10,7 @@ const Info = () => {
     <>
       <div className="main-container">
         <div className="img-box">
-          <img src="../images/vivek.jpg" alt="Vivek" className="my-img" />
+          <img src="../../../images/vivek.jpg" alt="Vivek" className="my-img" />
         </div>
         <div className="text-box">
           <div className="h4-box">
@@ -28,7 +28,11 @@ const Info = () => {
           </p>
           <br />
           <div className="btn-box">
-            <a href="pdf/Vivek-CV.pdf" className="cv-btn" download>
+            <a
+              href="../../../pdf/Vivek-Awasthi-CV.pdf"
+              className="cv-btn"
+              download
+            >
               Download CV
             </a>
           </div>
