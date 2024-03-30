@@ -28,11 +28,7 @@ const Info = () => {
           </p>
           <br />
           <div className="btn-box">
-            <a
-              href="../../../pdf/Vivek-Awasthi-CV.pdf"
-              className="cv-btn"
-              download
-            >
+            <a href="/Vivek-Awasthi-CV.pdf" className="cv-btn" download>
               Download CV
             </a>
           </div>
