@@ -10,7 +10,7 @@ const Info = () => {
     <>
       <div className="main-container">
         <div className="img-box">
-          <img src="../../../images/vivek.jpg" alt="Vivek" className="my-img" />
+          <img src="../../../images/vivek.png" alt="Vivek" className="my-img" />
         </div>
         <div className="text-box">
           <div className="h4-box">
